@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\MijajlovicTimeSpanZadatak\MijajlovicTimeSpanZadatak\bin\Debug\MijajlovicTimeSpanZadatak.exe.config
+C:\Users\Ucenik\source\repos\MijajlovicTimeSpanZadatak\MijajlovicTimeSpanZadatak\bin\Debug\MijajlovicTimeSpanZadatak.exe
+C:\Users\Ucenik\source\repos\MijajlovicTimeSpanZadatak\MijajlovicTimeSpanZadatak\bin\Debug\MijajlovicTimeSpanZadatak.pdb
+C:\Users\Ucenik\source\repos\MijajlovicTimeSpanZadatak\MijajlovicTimeSpanZadatak\obj\Debug\MijajlovicTimeSpanZadatak.csprojAssemblyReference.cache
+C:\Users\Ucenik\source\repos\MijajlovicTimeSpanZadatak\MijajlovicTimeSpanZadatak\obj\Debug\MijajlovicTimeSpanZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\MijajlovicTimeSpanZadatak\MijajlovicTimeSpanZadatak\obj\Debug\MijajlovicTimeSpanZadatak.exe
+C:\Users\Ucenik\source\repos\MijajlovicTimeSpanZadatak\MijajlovicTimeSpanZadatak\obj\Debug\MijajlovicTimeSpanZadatak.pdb
