@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\MijajlovicInputOutputKlasa\MijajlovicInputOutputKlasa\bin\Debug\MijajlovicInputOutputKlasa.exe.config
+C:\Users\Ucenik\source\repos\MijajlovicInputOutputKlasa\MijajlovicInputOutputKlasa\bin\Debug\MijajlovicInputOutputKlasa.exe
+C:\Users\Ucenik\source\repos\MijajlovicInputOutputKlasa\MijajlovicInputOutputKlasa\bin\Debug\MijajlovicInputOutputKlasa.pdb
+C:\Users\Ucenik\source\repos\MijajlovicInputOutputKlasa\MijajlovicInputOutputKlasa\obj\Debug\MijajlovicInputOutputKlasa.csprojAssemblyReference.cache
+C:\Users\Ucenik\source\repos\MijajlovicInputOutputKlasa\MijajlovicInputOutputKlasa\obj\Debug\MijajlovicInputOutputKlasa.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\MijajlovicInputOutputKlasa\MijajlovicInputOutputKlasa\obj\Debug\MijajlovicInputOutputKlasa.exe
+C:\Users\Ucenik\source\repos\MijajlovicInputOutputKlasa\MijajlovicInputOutputKlasa\obj\Debug\MijajlovicInputOutputKlasa.pdb
