@@ -1,0 +1,2 @@
+C:\Users\Mark\source\repos\MijajlovicMarkoSystemIO\MijajlovicMarkoSystemIO\obj\Debug\MijajlovicMarkoSystemIO.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\MijajlovicMarkoSystemIO\MijajlovicMarkoSystemIO\obj\Debug\MijajlovicMarkoSystemIO.csproj.CoreCompileInputs.cache
