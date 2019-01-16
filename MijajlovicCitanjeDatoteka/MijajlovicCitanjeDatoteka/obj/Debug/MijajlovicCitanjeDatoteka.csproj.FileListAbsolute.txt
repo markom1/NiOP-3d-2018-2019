@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\MijajlovicCitanjeDatoteka\MijajlovicCitanjeDatoteka\bin\Debug\MijajlovicCitanjeDatoteka.exe.config
+C:\Users\Ucenik\source\repos\MijajlovicCitanjeDatoteka\MijajlovicCitanjeDatoteka\bin\Debug\MijajlovicCitanjeDatoteka.exe
+C:\Users\Ucenik\source\repos\MijajlovicCitanjeDatoteka\MijajlovicCitanjeDatoteka\bin\Debug\MijajlovicCitanjeDatoteka.pdb
+C:\Users\Ucenik\source\repos\MijajlovicCitanjeDatoteka\MijajlovicCitanjeDatoteka\obj\Debug\MijajlovicCitanjeDatoteka.csprojAssemblyReference.cache
+C:\Users\Ucenik\source\repos\MijajlovicCitanjeDatoteka\MijajlovicCitanjeDatoteka\obj\Debug\MijajlovicCitanjeDatoteka.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\MijajlovicCitanjeDatoteka\MijajlovicCitanjeDatoteka\obj\Debug\MijajlovicCitanjeDatoteka.exe
+C:\Users\Ucenik\source\repos\MijajlovicCitanjeDatoteka\MijajlovicCitanjeDatoteka\obj\Debug\MijajlovicCitanjeDatoteka.pdb
