@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\MijajlovicMarkoKlase\MijajlovicMarkoKlase\bin\Debug\MijajlovicMarkoKlase.exe.config
+C:\Users\Ucenik\source\repos\MijajlovicMarkoKlase\MijajlovicMarkoKlase\bin\Debug\MijajlovicMarkoKlase.exe
+C:\Users\Ucenik\source\repos\MijajlovicMarkoKlase\MijajlovicMarkoKlase\bin\Debug\MijajlovicMarkoKlase.pdb
+C:\Users\Ucenik\source\repos\MijajlovicMarkoKlase\MijajlovicMarkoKlase\obj\Debug\MijajlovicMarkoKlase.csprojAssemblyReference.cache
+C:\Users\Ucenik\source\repos\MijajlovicMarkoKlase\MijajlovicMarkoKlase\obj\Debug\MijajlovicMarkoKlase.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\MijajlovicMarkoKlase\MijajlovicMarkoKlase\obj\Debug\MijajlovicMarkoKlase.exe
+C:\Users\Ucenik\source\repos\MijajlovicMarkoKlase\MijajlovicMarkoKlase\obj\Debug\MijajlovicMarkoKlase.pdb
