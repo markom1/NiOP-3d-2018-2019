@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\MijajlovicMarkoZadatakZaKraj\MijajlovicMarkoZadatakZaKraj\bin\Debug\MijajlovicMarkoZadatakZaKraj.exe.config
+C:\Users\Ucenik\source\repos\MijajlovicMarkoZadatakZaKraj\MijajlovicMarkoZadatakZaKraj\bin\Debug\MijajlovicMarkoZadatakZaKraj.exe
+C:\Users\Ucenik\source\repos\MijajlovicMarkoZadatakZaKraj\MijajlovicMarkoZadatakZaKraj\bin\Debug\MijajlovicMarkoZadatakZaKraj.pdb
+C:\Users\Ucenik\source\repos\MijajlovicMarkoZadatakZaKraj\MijajlovicMarkoZadatakZaKraj\obj\Debug\MijajlovicMarkoZadatakZaKraj.csprojAssemblyReference.cache
+C:\Users\Ucenik\source\repos\MijajlovicMarkoZadatakZaKraj\MijajlovicMarkoZadatakZaKraj\obj\Debug\MijajlovicMarkoZadatakZaKraj.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\MijajlovicMarkoZadatakZaKraj\MijajlovicMarkoZadatakZaKraj\obj\Debug\MijajlovicMarkoZadatakZaKraj.exe
+C:\Users\Ucenik\source\repos\MijajlovicMarkoZadatakZaKraj\MijajlovicMarkoZadatakZaKraj\obj\Debug\MijajlovicMarkoZadatakZaKraj.pdb
